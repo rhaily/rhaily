@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <title>Exercicios</title>
+</head>
+
+<body>
+ <div class="pai-posicionamento-relativo>
+ <div class="posicionamento-relativo"></div>
+ </div>
+ <div class="posicionamento-absoluto"></div>
+ .posicionamento-relativo{
+ position:relative;
+ }
+ div{
+ top:40px;
+ right:50px;
+ }
+ .posicionamento-absolute{
+ position:absolute;
+ }
+ div{
+ top:70px;
+ left:40px;
+ }
+
+
+  <h1>
+    Título
+  </h1>
+  <p>
+    Parágrafo.
+  </p>
+ 
+</body>
+
+</html>
