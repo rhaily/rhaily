@@ -4,7 +4,7 @@
 <head>
   <title>Exercicios</title>
 <style>
-   .posicionamento=-relativo{
+   .posicionamento=-relative{
 position:relative;
 top:40px;
 right:50px;
@@ -49,14 +49,3 @@ left:40px;
  left:40px;
  }
 
-
-  <h1>
-    Título
-  </h1>
-  <p>
-    Parágrafo.
-  </p>
- 
-</body>
-
-</html>
